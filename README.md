@@ -12,6 +12,4 @@ Stack: React.js + getstream.io
 
 ![Screenshot 2023-06-12 163233](https://github.com/Proger30/medical-pager-frontend/assets/45534457/eefeb018-c27f-4d6c-8af8-6adca3d28166)
 
-### Profile page: ![Screenshot 2023-06-12 161020](https://github.com/Proger30/SocialMediaFront/assets/45534457/728e59bc-8ceb-463e-93d9-0a36d03e1eb2)
-
 ### Channels and direct messages: ![Screenshot 2023-06-12 163615](https://github.com/Proger30/medical-pager-frontend/assets/45534457/cf97a9cd-bb96-494b-8037-1a91a3c00310)
